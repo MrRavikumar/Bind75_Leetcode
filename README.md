@@ -5,7 +5,7 @@ This repository contains solutions for the **Blind75** Leetcode questions, categ
 ## Table of Contents
 
 1. [Array](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#array-completed-)
-2. [Bit Manipulation](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#binary)
+2. [Bit Manipulation](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#bit-manipulation)
 3. [Dynamic Programming](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#dynamic-programming)
 4. [Graph](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#graph)
 5. [Interval](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#interval)
@@ -32,7 +32,7 @@ This repository contains solutions for the **Blind75** Leetcode questions, categ
 
 ---
 
-## Binary
+## Bit Manipulation
 
 - [x] [Sum of Two Integers](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Bit_Manipulation/Bit_SumOfTwoInteger.py) 
 - [x] [Number of 1 Bits](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Bit_Manipulation/Bit_NumberOf1Bit.py)  
