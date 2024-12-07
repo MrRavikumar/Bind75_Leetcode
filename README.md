@@ -5,15 +5,15 @@ This repository contains solutions for the **Blind75** Leetcode questions, categ
 ## Table of Contents
 
 1. [Array](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#array-completed-)
-2. [Bit Manipulation](https://leetcode.com/problem-list/bit-manipulation/)
-3. [Dynamic Programming](https://leetcode.com/problem-list/dynamic-programming/)
-4. [Graph](https://leetcode.com/problem-list/graph/)
-5. [Interval](#interval)
-6. [Linked List](https://leetcode.com/problem-list/linked-list/)
-7. [Matrix](https://leetcode.com/problem-list/matrix/)
-8. [String](https://leetcode.com/problem-list/string/)
-9. [Tree](https://leetcode.com/problem-list/tree/)
-10. [Heap](https://leetcode.com/problem-list/heap-priority-queue/)
+2. [Bit Manipulation](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#binary)
+3. [Dynamic Programming](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#dynamic-programming)
+4. [Graph](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#graph)
+5. [Interval](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#interval)
+6. [Linked List](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#linked-list)
+7. [Matrix](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#matrix)
+8. [String](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#string)
+9. [Tree](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#tree)
+10. [Heap](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#heap)
 
 ---
 
