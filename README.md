@@ -34,7 +34,7 @@ This repository contains solutions for the **Blind75** Leetcode questions, categ
 
 ## Binary
 
-- [ ] Sum of Two Integers  
+- [x] [Sum of Two Integers](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Bit_Manipulation/Bit_SumOfTwoInteger.py) 
 - [ ] Number of 1 Bits  
 - [ ] Counting Bits  
 - [ ] Missing Number  
