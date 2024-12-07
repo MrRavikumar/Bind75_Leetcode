@@ -37,7 +37,7 @@ This repository contains solutions for the **Blind75** Leetcode questions, categ
 - [x] [Sum of Two Integers](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Bit_Manipulation/Bit_SumOfTwoInteger.py) 
 - [x] [Number of 1 Bits](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Bit_Manipulation/Bit_NumberOf1Bit.py)  
 - [x] [Counting Bits](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Bit_Manipulation/Bit_CountingBits.py) 
-- [ ] Missing Number  
+- [x] [Missing Number](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Bit_Manipulation/Bit_MissingNumber.py)  
 - [ ] Reverse Bits  
 
 ---
