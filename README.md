@@ -4,7 +4,7 @@ This repository contains solutions for the **Blind75** Leetcode questions, categ
 
 ## Table of Contents
 
-1. [Array](https://leetcode.com/problem-list/array/)
+1. [Array](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#array-completed-)
 2. [Bit Manipulation](https://leetcode.com/problem-list/bit-manipulation/)
 3. [Dynamic Programming](https://leetcode.com/problem-list/dynamic-programming/)
 4. [Graph](https://leetcode.com/problem-list/graph/)
