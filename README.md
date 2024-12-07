@@ -5,7 +5,7 @@ This repository contains solutions for the **Blind75** Leetcode questions, categ
 ## Table of Contents
 
 1. [Array](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#array-completed-)
-2. [Bit Manipulation](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#bit-manipulation)
+2. [Bit Manipulation](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#bit-manipulation-completed-)
 3. [Dynamic Programming](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#dynamic-programming)
 4. [Graph](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#graph)
 5. [Interval](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/README.md#interval)
@@ -32,13 +32,13 @@ This repository contains solutions for the **Blind75** Leetcode questions, categ
 
 ---
 
-## Bit Manipulation
+## Bit Manipulation (Completed ✅)
 
 - [x] [Sum of Two Integers](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Bit_Manipulation/Bit_SumOfTwoInteger.py) 
 - [x] [Number of 1 Bits](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Bit_Manipulation/Bit_NumberOf1Bit.py)  
 - [x] [Counting Bits](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Bit_Manipulation/Bit_CountingBits.py) 
 - [x] [Missing Number](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Bit_Manipulation/Bit_MissingNumber.py)  
-- [ ] Reverse Bits  
+- [x] [Reverse Bits](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Bit_Manipulation/Bit_ReverseBits.py)  
 
 ---
 
