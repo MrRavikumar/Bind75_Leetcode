@@ -19,16 +19,16 @@ This repository contains solutions for the **Blind75** Leetcode questions, categ
 
 ## Array (Completed ✅)
 
-- [x] Two Sum  
-- [x] Best Time to Buy and Sell Stock  
-- [x] Contains Duplicate  
-- [x] Product of Array Except Self  
-- [x] Maximum Subarray  
-- [x] Maximum Product Subarray  
-- [x] Find Minimum in Rotated Sorted Array  
-- [x] Search in Rotated Sorted Array  
-- [x] 3 Sum  
-- [x] Container With Most Water  
+- [x] [Two Sum](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Array/Array_TwoSums.py)
+- [x] [Best Time to Buy and Sell Stock](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Array/Array_BestTimeToBuyAndSellStock.py)
+- [x] [Contains Duplicate](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Array/Array_ContainsDuplicates.py)
+- [x] [Product of Array Except Self](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Array/Array_ProductExceptSelf.py)  
+- [x] [Maximum Subarray](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Array/Array_MaxSubArray.py)  
+- [x] [Maximum Product Subarray](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Array/Array_MaxProductSubArray.py)  
+- [x] [Find Minimum in Rotated Sorted Array](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Array/Array_FindMinimumElementInRotatedSortedArray.py)  
+- [x] [Search in Rotated Sorted Array](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Array/Array_SearchInRotatedSortedArray1.py)  
+- [x] [3 Sum](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Array/Array_ThreeSums.py)  
+- [x] [Container With Most Water](https://github.com/MrRavikumar/Bind75_Leetcode/blob/main/Array/Array_ContainerWithMostWater.py)  
 
 ---
 
