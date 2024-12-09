@@ -1,6 +1,7 @@
 # Blind75 - Leetcode Questions
 
 This repository contains solutions for the **Blind75** Leetcode questions, categorized by topic. It's a collection of fundamental problems aimed at strengthening your problem-solving skills and preparing you for technical interviews.
+Its Also contains some basics of Recursion which helps in solving DP Problems.
 
 ## Table of Contents
 
